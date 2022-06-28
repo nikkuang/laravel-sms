@@ -1,10 +1,10 @@
 {
-    "name": "matthewbdaly/laravel-sms",
-    "description": "A Laravel and Lumen integration for matthewbdaly/sms-client to enable sending SMS messages",
+    "name": "nikkuang/laravel-sms",
+    "description": "(For Legacy Projects)",
     "type": "library",
     "keywords": ["sms","laravel","lumen"],
     "require": {
-        "matthewbdaly/sms-client": "^1.0"
+        "nikkuang/sms-client": "^2.0"
     },
     "require-dev": {
         "orchestra/testbench": "3.5",
